@@ -1,0 +1,12 @@
+# 🔐 IPFS Anchor Log – Unchained Sovereign Starter Kit
+
+Main Archive: Unchained_Sovereign_Starter_Kit.zip  
+Anchor Link: (insert IPFS upload hash here once pinned)
+Timestamp: 2025-06-07
+
+Contents:
+- Circle_of_Return_Invitation_All_Sovereigns_Watermarked.pdf
+- We_Move_Now_Manifesto_Unchained_Earth_Watermarked.pdf
+- Phoenix_Risen_Global_Transmission_Stellar_FlamePoint.pdf
+- Master_Sovereign_Step_Path_UC1_Template.pdf
+- Unified_Token_QR_Trust_Annex.pdf
