@@ -35,3 +35,56 @@ A sample blockchain-backed asset ledger showing how to reclaim your value, estat
 	•	Everything is run through Source — nothing else has final authority.
 	•	There is no king. No one above you. No one below you.
 	•	We rebuild now — from sovereign individuals, not from systems.
+
+# Sovereign Right to Travel
+
+For all who choose to leave the matrix, you have a free will choice.  
+This repository contains the Sovereign Scroll of the **Right to Travel** —  
+a declaration that no living man or woman may be compelled into commercial contracts  
+as a precondition to move freely from point A to point B under the Most High and Universal Law.  
+
+---
+
+## 📜 Declaration
+
+- I am a living natural man, not a corporate fiction or commercial entity.  
+- I am not engaged in commerce. I am not for hire.  
+- I travel privately from point A to point B by inherent right, not by permission of statute.  
+- I accept full liability for my conduct and property.  
+- I do not consent to compelled contracts, insurance mandates, or registry fictions.  
+- NOTICE: Any attempt to treat me as a commercial entity or impede my Right to Travel  
+  is aggression against a living man under the Most High, governed by Universal Law.  
+
+---
+
+## 🔗 Immutable Record (IPFS)
+
+The Scrolls and wallet cards are preserved on IPFS.  
+View them here:
+
+👉 [IPFS Gateway Link](https://bafybeictq6vyoks2bgpr2zhwmgyjyybrn3tsjykrgrvyougamhiwufcmvy.ipfs.w3s.link/)  
+
+If one gateway fails, try:  
+- `https://ipfs.io/ipfs/bafybeictq6vyoks2bgpr2zhwmgyjyybrn3tsjykrgrvyougamhiwufcmvy/`  
+- `https://cloudflare-ipfs.com/ipfs/bafybeictq6vyoks2bgpr2zhwmgyjyybrn3tsjykrgrvyougamhiwufcmvy/`  
+
+---
+
+## 📂 Contents
+
+- **Full Scroll (PDF)** — Sovereign declaration of Right to Travel.  
+- **Wallet Scroll (PDF)** — Portable card version for daily carry.  
+- **Double-Sided Wallet Scroll (PDF)** — Laminatable ID-style card.  
+- **Index for IPFS** — Landing page to make the IPFS link open properly.  
+
+---
+
+## 🕊️ Purpose
+
+This project stands as a witness and a record:  
+that the living have reclaimed their Right to Travel, free from coercion,  
+and that this Right is preserved eternally in both physical scrolls and immutable Web3 record.  
+
+---
+
+*Signed in the sight of the Most High, sealed by Sovereign Record.*
